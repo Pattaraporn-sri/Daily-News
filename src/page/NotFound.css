@@ -1,0 +1,40 @@
+@import 'https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=DM+Serif+Display:ital@1&display=swap';
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box-not{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin-left: 70px;
+    margin-top: 100px;
+    border-radius: 10px;
+    box-shadow: 0 12px 34px rgba(0, 0, 0, 0.12);
+}
+.not-found{
+    height: 400px;
+    text-align: center;
+}
+.img{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin-top: 100px;
+}
+.button{
+    text-align: center;
+}
+.button-back{
+    width: 100px;
+    height:35px;
+    border-radius: 8px;
+    background-color: rgb(51, 60, 92);
+    color: rgb(247, 249, 250);
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}

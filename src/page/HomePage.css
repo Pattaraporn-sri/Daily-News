@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=DM+Serif+Display:ital@1&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Mitr:wght@200;300;400;500;600;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Box{
+    margin-bottom: 70px;
+}
+.title{
+    color: rgb(67, 67, 114);
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size:25px;
+}
+.sub-title{
+    color: rgb(67, 67, 114);
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.type-new-name{
+    color: rgb(67, 67, 114);
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.box-container{
+    width: 90%;
+    height: 150px;
+    margin: 20px 70px;
+    padding: 30px 30px;
+    border-radius: 10px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    box-shadow: 0 12px 34px rgba(0, 0, 0, 0.12);
+}
+.headline-text{
+    color: rgb(67, 67, 114);
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.time{
+    color: gray;
+}
+.category{
+    color: gray;
+}
+.content{
+    color: rgb(67, 67, 114);
+}

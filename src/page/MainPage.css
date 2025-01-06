@@ -1,0 +1,56 @@
+@import 'https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=DM+Serif+Display:ital@1&display=swap';
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 90%;
+    height: 500px;
+    background-color: rgb(247, 247, 250);
+    margin-left: 70px;
+    margin-top: 100px;
+    border-radius: 10px;
+    box-shadow: 0 12px 34px rgba(0, 0, 0, 0.12);
+}
+.box-img{
+    height: 250px;
+    text-align: center;
+    justify-items: center;
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
+
+.text-btn{
+    text-align: center;
+    padding-top: 150px;
+}
+
+.text {
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(51, 60, 92);
+}
+
+.btn{
+    margin-top: 10px;
+}
+.btn-tab{
+    width: 100px;
+    height:35px;
+    border-radius: 8px;
+    background-color: rgb(51, 60, 92);
+    color: rgb(247, 249, 250);
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+
+
+  
